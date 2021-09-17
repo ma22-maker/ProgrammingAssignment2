@@ -31,4 +31,4 @@ CacheSolve <- function(x, ...) {
   i
 }
 
-##Recall the matrix that is the inverse of "x" 
+##Recall the matrix that is the inverse of "x"
